@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [1580-shuffle-the-array](https://github.com/Prabhav-Batra/LeetPush/tree/master/1580-shuffle-the-array) |
 | [1603-running-sum-of-1d-array](https://github.com/Prabhav-Batra/LeetPush/tree/master/1603-running-sum-of-1d-array) |
 | [2058-concatenation-of-array](https://github.com/Prabhav-Batra/LeetPush/tree/master/2058-concatenation-of-array) |
 ## Simulation
