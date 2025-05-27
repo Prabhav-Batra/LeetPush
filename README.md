@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0861-flipping-an-image](https://github.com/Prabhav-Batra/LeetPush/tree/master/0861-flipping-an-image) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Prabhav-Batra/LeetPush/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1505-create-target-array-in-the-given-order](https://github.com/Prabhav-Batra/LeetPush/tree/master/1505-create-target-array-in-the-given-order) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Prabhav-Batra/LeetPush/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -23,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 |  |
 | ------- |
+| [0861-flipping-an-image](https://github.com/Prabhav-Batra/LeetPush/tree/master/0861-flipping-an-image) |
 | [1505-create-target-array-in-the-given-order](https://github.com/Prabhav-Batra/LeetPush/tree/master/1505-create-target-array-in-the-given-order) |
 | [2058-concatenation-of-array](https://github.com/Prabhav-Batra/LeetPush/tree/master/2058-concatenation-of-array) |
 ## Prefix Sum
@@ -53,4 +55,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [1899-count-items-matching-a-rule](https://github.com/Prabhav-Batra/LeetPush/tree/master/1899-count-items-matching-a-rule) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Prabhav-Batra/LeetPush/tree/master/1960-check-if-the-sentence-is-pangram) |
+## Two Pointers
+|  |
+| ------- |
+| [0861-flipping-an-image](https://github.com/Prabhav-Batra/LeetPush/tree/master/0861-flipping-an-image) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0861-flipping-an-image](https://github.com/Prabhav-Batra/LeetPush/tree/master/0861-flipping-an-image) |
+## Matrix
+|  |
+| ------- |
+| [0861-flipping-an-image](https://github.com/Prabhav-Batra/LeetPush/tree/master/0861-flipping-an-image) |
 <!---LeetCode Topics End-->
