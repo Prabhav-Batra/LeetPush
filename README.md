@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1580-shuffle-the-array](https://github.com/Prabhav-Batra/LeetPush/tree/master/1580-shuffle-the-array) |
 | [1603-running-sum-of-1d-array](https://github.com/Prabhav-Batra/LeetPush/tree/master/1603-running-sum-of-1d-array) |
 | [1635-number-of-good-pairs](https://github.com/Prabhav-Batra/LeetPush/tree/master/1635-number-of-good-pairs) |
+| [1833-find-the-highest-altitude](https://github.com/Prabhav-Batra/LeetPush/tree/master/1833-find-the-highest-altitude) |
 | [1899-count-items-matching-a-rule](https://github.com/Prabhav-Batra/LeetPush/tree/master/1899-count-items-matching-a-rule) |
 | [2058-concatenation-of-array](https://github.com/Prabhav-Batra/LeetPush/tree/master/2058-concatenation-of-array) |
 ## Simulation
@@ -28,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1603-running-sum-of-1d-array](https://github.com/Prabhav-Batra/LeetPush/tree/master/1603-running-sum-of-1d-array) |
+| [1833-find-the-highest-altitude](https://github.com/Prabhav-Batra/LeetPush/tree/master/1833-find-the-highest-altitude) |
 ## Hash Table
 |  |
 | ------- |
