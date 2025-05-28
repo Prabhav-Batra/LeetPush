@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0861-flipping-an-image](https://github.com/Prabhav-Batra/LeetPush/tree/master/0861-flipping-an-image) |
+| [0898-transpose-matrix](https://github.com/Prabhav-Batra/LeetPush/tree/master/0898-transpose-matrix) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/Prabhav-Batra/LeetPush/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Prabhav-Batra/LeetPush/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Prabhav-Batra/LeetPush/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -30,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0861-flipping-an-image](https://github.com/Prabhav-Batra/LeetPush/tree/master/0861-flipping-an-image) |
+| [0898-transpose-matrix](https://github.com/Prabhav-Batra/LeetPush/tree/master/0898-transpose-matrix) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/Prabhav-Batra/LeetPush/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1505-create-target-array-in-the-given-order](https://github.com/Prabhav-Batra/LeetPush/tree/master/1505-create-target-array-in-the-given-order) |
 | [2058-concatenation-of-array](https://github.com/Prabhav-Batra/LeetPush/tree/master/2058-concatenation-of-array) |
@@ -73,5 +75,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0861-flipping-an-image](https://github.com/Prabhav-Batra/LeetPush/tree/master/0861-flipping-an-image) |
+| [0898-transpose-matrix](https://github.com/Prabhav-Batra/LeetPush/tree/master/0898-transpose-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/Prabhav-Batra/LeetPush/tree/master/1677-matrix-diagonal-sum) |
 <!---LeetCode Topics End-->
