@@ -68,11 +68,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Prabhav-Batra/LeetPush/tree/master/0005-longest-palindromic-substring) |
 | [1899-count-items-matching-a-rule](https://github.com/Prabhav-Batra/LeetPush/tree/master/1899-count-items-matching-a-rule) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Prabhav-Batra/LeetPush/tree/master/1960-check-if-the-sentence-is-pangram) |
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Prabhav-Batra/LeetPush/tree/master/0005-longest-palindromic-substring) |
 | [0861-flipping-an-image](https://github.com/Prabhav-Batra/LeetPush/tree/master/0861-flipping-an-image) |
 ## Bit Manipulation
 |  |
@@ -88,5 +90,10 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Prabhav-Batra/LeetPush/tree/master/0005-longest-palindromic-substring) |
 | [0118-pascals-triangle](https://github.com/Prabhav-Batra/LeetPush/tree/master/0118-pascals-triangle) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Prabhav-Batra/LeetPush/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
