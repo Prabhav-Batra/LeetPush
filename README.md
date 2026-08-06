@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Prabhav-Batra/LeetPush/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Prabhav-Batra/LeetPush/tree/master/0009-palindrome-number) |
 | [1031-add-to-array-form-of-integer](https://github.com/Prabhav-Batra/LeetPush/tree/master/1031-add-to-array-form-of-integer) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/Prabhav-Batra/LeetPush/tree/master/1378-cells-with-odd-values-in-a-matrix) |
@@ -96,4 +97,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Prabhav-Batra/LeetPush/tree/master/0005-longest-palindromic-substring) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Prabhav-Batra/LeetPush/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Prabhav-Batra/LeetPush/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
