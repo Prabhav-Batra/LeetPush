@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Prabhav-Batra/LeetPush/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/Prabhav-Batra/LeetPush/tree/master/0015-3sum) |
 | [0073-set-matrix-zeroes](https://github.com/Prabhav-Batra/LeetPush/tree/master/0073-set-matrix-zeroes) |
 | [0118-pascals-triangle](https://github.com/Prabhav-Batra/LeetPush/tree/master/0118-pascals-triangle) |
 | [0861-flipping-an-image](https://github.com/Prabhav-Batra/LeetPush/tree/master/0861-flipping-an-image) |
@@ -61,6 +62,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Prabhav-Batra/LeetPush/tree/master/0015-3sum) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Prabhav-Batra/LeetPush/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Counting Sort
 |  |
@@ -77,6 +79,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Prabhav-Batra/LeetPush/tree/master/0005-longest-palindromic-substring) |
+| [0015-3sum](https://github.com/Prabhav-Batra/LeetPush/tree/master/0015-3sum) |
 | [0861-flipping-an-image](https://github.com/Prabhav-Batra/LeetPush/tree/master/0861-flipping-an-image) |
 ## Bit Manipulation
 |  |
