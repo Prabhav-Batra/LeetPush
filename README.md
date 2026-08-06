@@ -70,6 +70,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Prabhav-Batra/LeetPush/tree/master/0005-longest-palindromic-substring) |
+| [0008-string-to-integer-atoi](https://github.com/Prabhav-Batra/LeetPush/tree/master/0008-string-to-integer-atoi) |
 | [1899-count-items-matching-a-rule](https://github.com/Prabhav-Batra/LeetPush/tree/master/1899-count-items-matching-a-rule) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Prabhav-Batra/LeetPush/tree/master/1960-check-if-the-sentence-is-pangram) |
 ## Two Pointers
