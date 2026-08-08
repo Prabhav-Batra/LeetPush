@@ -83,6 +83,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0005-longest-palindromic-substring](https://github.com/Prabhav-Batra/LeetPush/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/Prabhav-Batra/LeetPush/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Prabhav-Batra/LeetPush/tree/master/0018-4sum) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Prabhav-Batra/LeetPush/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0861-flipping-an-image](https://github.com/Prabhav-Batra/LeetPush/tree/master/0861-flipping-an-image) |
 ## Bit Manipulation
 |  |
@@ -108,6 +109,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Prabhav-Batra/LeetPush/tree/master/0002-add-two-numbers) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Prabhav-Batra/LeetPush/tree/master/0019-remove-nth-node-from-end-of-list) |
 ## Recursion
 |  |
 | ------- |
